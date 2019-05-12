@@ -12,6 +12,15 @@ Problem isolated in pages/pixiBug/, uncomment the lines at the start of the scri
 "client-side rendered virtual DOM tree is not matching server-rendered content."
 in a 13 lines vue file while using a v-for loop in an HTML table.
 
+# install and run
+With:
+
+$ npm install
+
+and then
+
+$ npm run dev
+
 # contact
 I wrote this for the nuxt discord channel, but if you wish to reach me by email:
 
