@@ -6,7 +6,7 @@ Two problems here isolated at the moment as follows.
 ## pixi.js import
 Directives are given in nuxt.config.js and plugins/pixiPlug.js, as expected.
 But PIXI is not available in the scripts.
-Problem isolated in pages/pixiBug, uncomment the lines at the start of script tag to load PIXI from CDN...
+Problem isolated in pages/pixiBug/, uncomment the lines at the start of the script tag to load PIXI from CDN...
 
 ## tree not matching
 "client-side rendered virtual DOM tree is not matching server-rendered content."
